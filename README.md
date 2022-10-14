@@ -1,5 +1,23 @@
-﻿#README
+﻿# README
+## 시작하기
+### 1. 설치
+	https://git-scm.com/
 
+### 2. 버전확인
+	git -v
+
+### 3. 사용자 정보
+	git config --global user.name "JinwooKing"
+	git config --global user.email "wlsdn9489@naver.com"
+	
+### 4. 설정 확인
+	git config --list
+
+### 5. 도움말 보기
+	git help config
+	git help <verb>
+
+## 저장소 만들기
 ### 1. 로컬 리포지토리 생성
 	git init
 
